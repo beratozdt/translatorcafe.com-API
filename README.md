@@ -1,2 +1,3 @@
-# translatorcafe.com-API
-translatorscafe.com
+# translatorscafe.com-API
+translatorscafe.com jobs API.
+gets the Job links
