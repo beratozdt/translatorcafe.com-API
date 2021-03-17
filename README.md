@@ -1,2 +1,2 @@
 # translatorcafe.com-API
-translatorcafe.com
+translatorscafe.com
